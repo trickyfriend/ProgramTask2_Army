@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\bin\Debug\netstandard2.0\Army_Library.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\bin\Debug\netstandard2.0\Army_Library.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\bin\Debug\netstandard2.0\Army_Library.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task2_Army\Army_Library\obj\Debug\netstandard2.0\Army_Library.pdb
